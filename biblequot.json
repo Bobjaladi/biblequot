@@ -1,0 +1,22 @@
+[
+  ["Jesus was born in Bethlehem", true],
+  ["Moses parted the Red Sea", true],
+  ["Paul was one of the 12 Apostles", false],
+  ["David defeated Goliath", true],
+  ["Noah built an ark", true],
+  ["Peter denied Jesus three times", true],
+  ["The Bible has 66 books", true],
+  ["Jesus turned water into wine at a wedding", true],
+  ["The Ten Commandments were given to Joshua", false],
+  ["Solomon was known for his wisdom", true],
+  ["Jesus was crucified in Nazareth", false],
+  ["Jonah was swallowed by a whale", true],
+  ["Abraham was asked to sacrifice Isaac", true],
+  ["The Gospel of Luke is the first book of the New Testament", false],
+  ["Esther became queen of Egypt", false],
+  ["Daniel was thrown into a lion's den", true],
+  ["Ruth was a Moabite", true],
+  ["Elijah ascended to heaven in a chariot of fire", true],
+  ["John the Baptist baptized Jesus", true],
+  ["The Book of Psalms is in the New Testament", false]
+]
